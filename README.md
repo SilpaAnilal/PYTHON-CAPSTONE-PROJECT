@@ -23,5 +23,29 @@ This project focuses on analyzing a dataset containing information about ABC com
 5. Correlation Between Age and Salary : Computed Pearson correlation coefficient.
 
 
+# Visual Representations
+All visualizations were created using Matplotlib and Seaborn for effective data storytelling. They include:
+
+1.Horizontal bar charts for team and salary distributions
+
+2.Pie chart for position breakdown
+
+3.Bar chart for age group analysis
+
+4.Bar chart of top 10 highest salary expenditures.
+
+5.Scatter plot with regression line for correlation.
+
+#  Insights
+Team Sizes: Most teams have 15 employees, with slight variations.
+
+Common Positions: SGs, PFs, and PGs dominate the dataset.
+
+Age Range: Most employees are aged between 23–28, aligning with typical athletic peaks.
+
+Salary Trends: Certain teams (e.g., Cleveland Cavaliers) spend more on key roles like SF.
+
+Age vs. Salary: Weak positive correlation,indicating performance drives salary more than age.
+
 
 
