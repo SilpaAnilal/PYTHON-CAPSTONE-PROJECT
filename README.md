@@ -1,4 +1,4 @@
-# PYTHON-CAPSTONE-PROJECT
+# Employee Insights Analysis: A Data-Driven Study of ABC Company Teams
 This repository contains the module end capstone project in Python
 
 # Project Overview
