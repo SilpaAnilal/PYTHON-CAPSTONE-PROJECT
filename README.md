@@ -1,5 +1,4 @@
 # Employee Insights Analysis: A Data-Driven Study of ABC Company Teams
-This repository contains the module end capstone project in Python
 
 # Project Overview
 This project focuses on analyzing a dataset containing information about ABC company team employees,consisting of 458 rows and 9 columns including their team, position, age, and salary. The goal is to explore trends, uncover insights, and visually represent key findings through Python-based data analysis and visualization techniques.
